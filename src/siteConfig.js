@@ -1,19 +1,19 @@
 const raw = {
-  siteName: "{{SITE_NAME}}",
-  tagline: "{{TAGLINE}}",
-  aboutText: "{{ABOUT_TEXT}}",
-  primaryColor: "{{PRIMARY_COLOR}}",
-  service1: { title: "{{SERVICE1_TITLE}}", description: "{{SERVICE1_DESCRIPTION}}" },
-  service2: { title: "{{SERVICE2_TITLE}}", description: "{{SERVICE2_DESCRIPTION}}" },
-  service3: { title: "{{SERVICE3_TITLE}}", description: "{{SERVICE3_DESCRIPTION}}" },
+  siteName: "CarterRigert",
+  tagline: "Test2",
+  aboutText: "Test2",
+  primaryColor: "#7b2900",
+  service1: { title: "Test2", description: "Test2" },
+  service2: { title: "", description: "" },
+  service3: { title: "", description: "" },
   contact: {
-    email: "{{CONTACT_EMAIL}}",
-    phone: "{{CONTACT_PHONE}}",
-    address: "{{CONTACT_ADDRESS}}"
+    email: "test@gmail.com",
+    phone: "55555555",
+    address: ""
   },
   social: {
-    instagram: "{{SOCIAL_INSTAGRAM}}",
-    facebook: "{{SOCIAL_FACEBOOK}}"
+    instagram: "",
+    facebook: ""
   }
 };
 
